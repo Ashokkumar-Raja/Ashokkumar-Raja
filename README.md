@@ -5,17 +5,14 @@ I'm a passionate software developer based in North York, ON, with a Bachelor's d
 
 🌱 Current Focus
 
-I'm currently honing my skills in backend development with Django and exploring cloud technologies like AWS for scalable web applications.
+I'm currently honing my skills in backend development and exploring cloud technologies like AWS for scalable web applications.
 
 💻 Skills
 
-Proficient in: Java, Python, MySQL, HTML, CSS
-
-Programming: C, C++, C#, ColdFusion, JavaScript, PHP, R, MATLAB
-
-Libraries and Tools: Git, Atlassian Tools, MS Office, Pandas, NumPy, Node, React, AWS
-
-Web Frameworks: Angular, Bootstrap, Django, JUnit
+* Proficient in: Java, Python, MySQL, HTML, CSS
+* Programming: C, C++, C#, ColdFusion, JavaScript, PHP, R, MATLAB
+* Libraries and Tools: Git, Atlassian Tools, MS Office, Pandas, NumPy, Node, React, AWS
+* Web Frameworks: Angular, Bootstrap, Django, JUnit
 
 ⚡ Fun Fact
 
