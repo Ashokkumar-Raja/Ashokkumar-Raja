@@ -19,12 +19,8 @@ Web Frameworks: Angular, Bootstrap, Django, JUnit
 
 ⚡ Fun Fact
 
-Enjoy exploring new places in my free time.
-I love working during night times while playing muisc.
-I believe in the power of coding to make a positive impact.
-Experimenting with new recipes in the kitchen.
-I love working during night times while playing muisc.
-I believe in the power of coding to make a positive impact.
+* Enjoy exploring new places in my free time.
+* Experimenting with new recipes in the kitchen.
 
 📫 Let's Connect
 
