@@ -4,7 +4,9 @@ I'm a passionate software developer based in North York, ON, with a Bachelor's d
 
 🚀 Featured Projects
 Salary Slip Calculator: Implemented a salary slip calculator using HTML and JS, enabling users to input financial components and generate detailed salary slips.
+
 Risk Management Platform: Developed a web application for identifying and addressing organizational risks using TypeScript, HTML, and CSS.
+
 IBridge Services: Collaborated on a web application providing resources for new professional immigrants, supporting credential recognition and pre-arrival instructions.
 
 🌱 Current Focus
