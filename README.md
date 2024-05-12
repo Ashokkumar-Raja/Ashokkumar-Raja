@@ -4,9 +4,11 @@ I'm a passionate software developer based in North York, ON, with a Bachelor's d
 
 
 🌱 Current Focus
+
 I'm currently honing my skills in backend development with Django and exploring cloud technologies like AWS for scalable web applications.
 
 💻 Skills
+
 Proficient in: Java, Python, MySQL, HTML, CSS
 
 Programming: C, C++, C#, ColdFusion, JavaScript, PHP, R, MATLAB
@@ -16,9 +18,11 @@ Libraries and Tools: Git, Atlassian Tools, MS Office, Pandas, NumPy, Node, React
 Web Frameworks: Angular, Bootstrap, Django, JUnit
 
 ⚡ Fun Fact
+
 I enjoy exploring new places in my free time and experimenting with new recipes in the kitchen.
 
 📫 Let's Connect
+
 Email: ashokkumarraja2000@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/ashokkumar-raja-a1275617a/
