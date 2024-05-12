@@ -21,8 +21,7 @@ I'm currently honing my skills in backend development and exploring cloud techno
 
 📫 Let's Connect
 
-Email: ashokkumarraja2000@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/ashokkumar-raja-a1275617a/
+* Email: ashokkumarraja2000@gmail.com
+* LinkedIn: https://www.linkedin.com/in/ashokkumar-raja-a1275617a/
 
 Let's build something amazing together! Feel free to reach out if you're interested in collaboration or have any questions! 😊
