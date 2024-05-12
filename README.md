@@ -10,21 +10,18 @@ I'm currently honing my skills in backend development with Django and exploring 
 💻 Skills
 
 Proficient in: Java, Python, MySQL, HTML, CSS
-
 Programming: C, C++, C#, ColdFusion, JavaScript, PHP, R, MATLAB
-
 Libraries and Tools: Git, Atlassian Tools, MS Office, Pandas, NumPy, Node, React, AWS
-
 Web Frameworks: Angular, Bootstrap, Django, JUnit
 
 ⚡ Fun Fact
 
-I enjoy exploring new places in my free time and experimenting with new recipes in the kitchen.
+Enjoy exploring new places in my free time.
+Experimenting with new recipes in the kitchen.
 
 📫 Let's Connect
 
 Email: ashokkumarraja2000@gmail.com
-
 LinkedIn: https://www.linkedin.com/in/ashokkumar-raja-a1275617a/
 
 
