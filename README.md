@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there, I'm Ashokkumar Raja! 👋
 
-<!--
-**Ashokkumar-Raja/Ashokkumar-Raja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer based in North York, ON, with a Bachelor's degree in Computer Science from Dalhousie University. I specialize in Java, Python, and web development, with experience in a variety of technologies including React and Django.
 
-Here are some ideas to get you started:
+🚀 Featured Projects
+Salary Slip Calculator: Implemented a salary slip calculator using HTML and JS, enabling users to input financial components and generate detailed salary slips.
+Risk Management Platform: Developed a web application for identifying and addressing organizational risks using TypeScript, HTML, and CSS.
+IBridge Services: Collaborated on a web application providing resources for new professional immigrants, supporting credential recognition and pre-arrival instructions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Current Focus
+I'm currently honing my skills in backend development with Django and exploring cloud technologies like AWS for scalable web applications.
+
+📫 Let's Connect
+Email: ashokkumarraja2000@gmail.com
+LinkedIn: Ashokkumar Raja
+GitHub: ashokkumarraja
+
+Feel free to reach out if you're interested in collaboration or have any questions! 😊
