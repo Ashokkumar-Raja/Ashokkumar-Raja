@@ -1,6 +1,6 @@
 Hi there, I'm Ashokkumar Raja! 👋
 
-I'm a passionate software developer based in North York, ON, with a Bachelor's degree in Computer Science from Dalhousie University. I specialize in Java, Python, and web development, with experience in a variety of technologies including ColdFusion, Django, and TypeScript.
+I'm a passionate software developer based in Toronto, ON, with a Bachelor's degree in Computer Science from Dalhousie University. I specialize in Java, Python, and web development, with experience in a variety of technologies including ColdFusion, Django, and TypeScript.
 
 
 🌱 Current Focus
@@ -9,8 +9,8 @@ I'm currently honing my skills in backend development and exploring technologies
 
 💻 Skills
 
-* Proficient in: Java, Python, MySQL, HTML, CSS
-* Programming: C, C++, C#, ColdFusion, JavaScript, PHP, R, MATLAB
+* Proficient in: Java, Python, MySQL
+* Programming: ColdFusion, JavaScript, TypeScript, HTML, CSS, jQuery, C, C++, C#, PHP, R, MATLAB
 * Libraries and Tools: Git, Atlassian Tools, MS Office, Pandas, NumPy, Node.js, React, AWS
 * Web Frameworks: Angular, Bootstrap, Django, JUnit
 
