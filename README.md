@@ -16,7 +16,8 @@ I'm currently honing my skills in backend development and exploring technologies
 
 ⚡ Fun Fact
 
-* Enjoy exploring new places in my free time.
+* Enjoy playing chess and speed cubing.
+* Like to explore new places in my free time.
 * Experimenting with new recipes in the kitchen.
 
 📫 Let's Connect
